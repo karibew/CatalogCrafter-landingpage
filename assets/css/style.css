@@ -2227,7 +2227,7 @@ header.style-2.sticky {
 }
 header.style-2 .company-logo .logo-dark {
   display: block;
-  height: 60px;
+  height: 44px;
 
   img {
     max-height: 100%;
@@ -6288,7 +6288,7 @@ header.style-3 .main-menu > ul li.menu-item-has-children > i {
 .footer-section .footer-top .footer-widget .footer-logo .logo-dark {
   display: block;
   img {
-    height: 60px;
+    height: 44px;
   }
 }
 .footer-section .footer-top .footer-widget .footer-logo .logo-light {
